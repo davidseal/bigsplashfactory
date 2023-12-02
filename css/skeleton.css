@@ -506,6 +506,14 @@ there.
   .footer-list {
     width: 300px;
   }
+
+  .footer-list li {
+    list-style: none;
+  }
+  .footer-list li:after {
+    content: "\A";
+    white-space: pre;
+  }
 }
 
 @media (min-width: 600px) {
