@@ -491,7 +491,7 @@ there.
 @media (min-width: 1px) {
   h1 {
     margin: 0px;
-    font-size: 2em;
+    font-size: 1.8em;
   }
   
   .bio-p {
@@ -500,8 +500,8 @@ there.
   }
 
   .bsf-img {
-    width: 50px;
-    height: 50px;
+    width: 40px;
+    height: 40px;
     margin-right: 10px;
   }
   
