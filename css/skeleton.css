@@ -61,7 +61,7 @@
   font-family: "Poppins", sans-serif;
 }
 
-.daytrip-img {
+.bsf-img {
   width: 120px;
   height: 120px;
   margin-right: 20px;
@@ -505,7 +505,7 @@ there.
     font-size: 1.1em;
   }
 
-  .daytrip-img {
+  .bsf-img {
     width: 50px;
     height: 50px;
     margin-right: 10px;
@@ -534,7 +534,7 @@ there.
     font-size: 3.0rem;
   }
 
-  .daytrip-img {
+  .bsf-img {
     width: 120px;
     height: 120px;
     margin-right: 20px;
