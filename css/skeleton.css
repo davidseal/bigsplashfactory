@@ -113,6 +113,10 @@ ul.footer-list > li > a {
   color: white;
 }
 
+li.copyright {
+  font-size: 1.3rem;
+}
+
 /* Grid
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
 .container {
